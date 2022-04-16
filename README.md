@@ -7,20 +7,24 @@
 <p align="center">Techs that I've used at least once</p>
 
 <p align="center">
-    ![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white")        ![](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white")  ![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white")    ![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white") 
-    ![](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white")  ![](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white") ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white") ![](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white")  ![](https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white") 
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp <br> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/></a>&nbsp
+
 </p>
+
+<br>
 
 <h3 align="center">
     Tools
 </h3>
 
 <p align="center">
-    ![](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white") ![](https://img.shields.io/badge/gitLAB-FCA121?style=for-the-badge&logo=gitlab&logoColor=white")  ![](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white")  ![](https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white")
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jirasoftware&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/VSC-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp 
 </p>
+
+<br>
 
 <h3 align="center">🌟 ME 🌟</h3>
 
 <P align="center">
-    [![](https://img.shields.io/badge/Tech_Blog-181717?style=for-the-badge&logo=github&logoColor=white")](https://riley.tistory.com/)    [![](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=GMAIL&logoColor=white")](mailto:helen121027@gmail.com)    [![](https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=NAVER&logoColor=white")](mailto:qlrqod6513@naver.com) 
+    <a href="https://riley.tistory.com/"><img src="https://img.shields.io/badge/Tech_Blog-181717?style=flat-square&logo=github&logoColor=white&link="https://riley.tistory.com/"/></a>&nbsp <a href="mailto:helen121027@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=flat-square&logo=GMAIL&logoColor=white&link="mailto:helen121027@gmail.com"/></a>&nbsp  <a href="mailto:qlrqod6513@naver.com"><img src="https://img.shields.io/badge/NAVER-03C75A?style=flat-square&logo=NAVER&logoColor=white&link="mailto:qlrqod6513@naver.com"/></a>&nbsp
 </P>
